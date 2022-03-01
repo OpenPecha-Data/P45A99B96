@@ -1,0 +1,13 @@
+id: P45A99B96
+initial_creation_type: input
+source_metadata:
+  title: Saṅghabhedavastu
+  language: sa
+  volumes:
+    69c239e8a9a047249c601f0b4a0cbbbf:
+      title: Title
+      base_file: Title.txt
+      work_id: W17DDA1BC
+  chapter_to_tile: {}
+created_at: '2022-03-01T22:59:30.396053'
+last_modified_at: '2022-03-01T22:59:30.396061'
